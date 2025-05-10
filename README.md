@@ -1,4 +1,5 @@
 #TrygData – Prototype til PII-scanning for Domstolsstyrelsen
+
 TrygData er et simpelt og brugervenligt værktøj udviklet til Danmarks Domstole. Det gør det muligt at analysere tekst for følsomme personoplysninger (PII), såsom CPR-numre, e-mails, adresser og navne, før de bruges i AI-værktøjer som Copilot eller ChatGPT.
 
 
@@ -19,14 +20,12 @@ TrygData er et simpelt og brugervenligt værktøj udviklet til Danmarks Domstole
 
 Du behøver ikke være udvikler – følg bare disse trin:
 
-### 1. Hent og udpak
-
+### 1. Hent og udpak (spring over hvis du allerede har koden)
 1. Gå til GitHub-projektet: [TrygData på GitHub](https://github.com/shadi77777/TrygData)
 2. Klik på "Code" > "Download ZIP"
 3. Udpak ZIP-filen på din computer
 
 ### 2. Installer Node.js
-
 Hvis du ikke allerede har det:
 
 * Gå til [https://nodejs.org](https://nodejs.org)
