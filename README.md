@@ -2,6 +2,7 @@
 
 TrygData er et simpelt og brugervenligt værktøj udviklet til Danmarks Domstole. Det gør det muligt at analysere tekst for følsomme personoplysninger (PII), såsom CPR-numre, e-mails, adresser og navne, før de bruges i AI-værktøjer som Copilot eller ChatGPT.
 
+Video af programmet: https://www.loom.com/share/8db8a2eb12964c1e824b149c7284dcdd?sid=86a48ec5-6dc6-4abc-ad3e-9c0104cdf1f3
 
 ## 🔐 Funktioner
 
