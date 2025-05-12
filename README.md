@@ -4,7 +4,7 @@ TrygData er et simpelt og brugervenligt værktøj udviklet til Danmarks Domstole
 
 Video af programmet: https://www.loom.com/share/8db8a2eb12964c1e824b149c7284dcdd?sid=86a48ec5-6dc6-4abc-ad3e-9c0104cdf1f3
 
-## 🔐 Funktioner
+## Funktioner
 
 * Automatisk detektion af:
 
@@ -17,9 +17,9 @@ Video af programmet: https://www.loom.com/share/8db8a2eb12964c1e824b149c7284dcdd
 * Fejlhåndtering og tydelig feedback.
 * Resultater vises med tydelige markeringer, hvis PII opdages.
 
-## 🖥️ Sådan kommer du i gang (for begyndere)
+## Sådan kommer du i gang 
 
-Du behøver ikke være udvikler – følg bare disse trin:
+Følg disse trin:
 
 ### 1. Hent og udpak (spring over hvis du allerede har koden)
 1. Gå til GitHub-projektet: [TrygData på GitHub](https://github.com/shadi77777/TrygData)
@@ -53,7 +53,7 @@ node server.js
 Du vil se beskeden:
 
 ```
-✅ PII-scanner kører på http://localhost:3000
+PII-scanner kører på http://localhost:3000
 ```
 
 ### 5. Brug det i browseren
@@ -63,7 +63,7 @@ Du vil se beskeden:
 3. Indsæt tekst og klik “Analyser”
 
 
-## 📘 Teknologier brugt
+## Teknologier brugt
 
 * Node.js (Express)
 * NLP via `compromise`
